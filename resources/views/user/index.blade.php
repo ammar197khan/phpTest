@@ -49,7 +49,6 @@
       @endif
       
     </tbody>
-  </table>
 </div>
 
 </body>
